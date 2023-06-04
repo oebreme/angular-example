@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  overflow: hidden;
+  background-image: linear-gradient(to left, rgb(55, 65, 81), rgb(17, 24, 39), rgb(0, 0, 0));
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
